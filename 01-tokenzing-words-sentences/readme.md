@@ -18,7 +18,7 @@ There are two common types:
 ### 🖼 Example Output
 The screenshot below shows the output of the program:
 
-![Tokenization Output](01-tokenzing-words-sentences.png)
+![Tokenization Output](01-tokenzing-words-sentences.PNG)
 
 ---
 
@@ -40,3 +40,4 @@ python 01_NLP_tokenzing_words_sentences.py
   - Part-of-speech tagging  
 
 This script demonstrates how **NLTK’s `word_tokenize` and `sent_tokenize`** functions make tokenization quick and simple.
+
